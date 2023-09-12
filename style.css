@@ -1,9 +1,23 @@
 /*Style sheet for resume.html */
 
+h1,h3{
+    color:whitesmoke;
+    background-color: #30305a;
+}
+.top{
+   text-align:center;
+}
+h3{
+    text-indent: 0.3em;
+}
 p{
-    margin-top:  0.5em;
+    margin-top: 0.5em;
     margin-bottom: 0.5em;
 }
+.descriptor{
+    text-indent: 40px;
+}
+/*I don't know why this descriptor class isn't working*/
 ul{
     margin-top:  0.5em;
     margin-bottom: 0.5em;
