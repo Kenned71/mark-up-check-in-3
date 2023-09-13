@@ -1,5 +1,8 @@
 /*Style sheet for resume.html */
 
+p{
+    text-indent: 1em;
+}
 h1,h3{
     color:whitesmoke;
     background-color: #30305a;
@@ -15,9 +18,10 @@ p{
     margin-bottom: 0.5em;
 }
 .descriptor{
-    text-indent: 1em
+    text-indent: 2em
 }
 ul{
     margin-top:  0.5em;
     margin-bottom: 0.5em;
+    text-indent: 2.5em;
 }
