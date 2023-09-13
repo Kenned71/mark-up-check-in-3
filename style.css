@@ -15,9 +15,8 @@ p{
     margin-bottom: 0.5em;
 }
 .descriptor{
-    text-indent: 40px;
+    text-indent: 1em
 }
-/*I don't know why this descriptor class isn't working*/
 ul{
     margin-top:  0.5em;
     margin-bottom: 0.5em;
